@@ -1,8 +1,8 @@
-@font-face {
+/* @font-face {
 	font-family: 'CoconLight';
 	src: url('../fonts/CoconLight.eot');
 	src: local('CoconLight'), url('../fonts/CoconLight.woff') format('woff'), url('../fonts/CoconLight.ttf') format('truetype');
-}
+} */
 
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
@@ -13,7 +13,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
   padding: 0;
   border: 0;
   outline: 0;
-  font-family: 'CoconLight';
+  font-family: 'Poppins', sans-serif;
 }
 
 /* clear fix */
