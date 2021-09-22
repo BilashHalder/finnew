@@ -1945,6 +1945,15 @@ form#contact button:hover {
 Footer Style
 --------------------------------------------- 
 */
+fb{
+  color: #0141a4;
+}
+fr{
+  color:#ff0017;
+}
+fg{
+  color:#f9ba48;
+}
 hr{
   width:20%;
   color:#0141a4;
