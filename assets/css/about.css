@@ -1911,6 +1911,11 @@ form#contact #map iframe {
 .fill-form .info-post {
   margin-bottom: 20px;
 }
+.info-post:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
 
 .fill-form .icon {
   text-align: center;
